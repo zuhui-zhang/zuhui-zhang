@@ -1,16 +1,26 @@
-## Hi there 👋
+```java
+class CareerSeeker {
+    void pursueDream() {
+        while (jobOpportunity == null) {
+            this.skills++;
+            this.resume.optimize();
+            
+            if (interviewCall.received()) {
+                prepare(InterviewStrategy.FULL_STACK);
+                confidenceLevel *= 1.5;
+            }
+        }
+        
+        do {
+            workEthic.maintain();
+            achievements.collect();
+        } while (careerPath.hasNextStep());
+    }
+}
+```
 
-<!--
-**zuhui-zhang/zuhui-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**持续精进待良机，**  
+**简历千修始见金。**  
+**闻召倾囊呈技艺，**  
+**笃行不倦上层林。**  
